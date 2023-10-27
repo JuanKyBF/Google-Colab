@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg6602"
+   width="82.239998"
+   height="61.439999"
+   viewBox="0 0 82.239998 61.439999"
+   sodipodi:docname="Beam Splitter.svg"
+   inkscape:export-filename="Mirror.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6606">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient22841">
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="0"
+         id="stop22837" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop22839" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient22841"
+       id="linearGradient22258"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.47318666,0,0,1.7286611,47.777983,-3.4663393)"
+       x1="15.385778"
+       y1="19.843161"
+       x2="15.540496"
+       y2="10.747978" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview6604"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="13.667316"
+     inkscape:cx="23.413523"
+     inkscape:cy="21.584341"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g6608">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6944" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g6608">
+    <rect
+       style="fill:url(#linearGradient22258);fill-opacity:1;stroke:#000000;stroke-width:0.452212;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6946-4-2"
+       width="9.4863653"
+       height="34.655907"
+       x="50.132259"
+       y="5.1343942" />
+  </g>
+</svg>
